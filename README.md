@@ -88,8 +88,11 @@ Iniciamos el proceso de investigación entrevistando a 6 usuarios con el fin de 
 Sintetizamos todas las observaciones en un mapa de afinidad, en donde los inputs más importantes fueron los siguientes:
 
 ![Dudas sobre la bancadigital](https://github.com/MayraMurillo/lim010-ux-financial-app/blob/master/fotos/Banqui.jpg)
+![Sobre el contacto humano](https://github.com/MayraMurillo/lim010-ux-financial-app/blob/master/fotos/Banqui%20(1).jpg)
+![Confianza en la banca digital](https://github.com/MayraMurillo/lim010-ux-financial-app/blob/master/fotos/Banqui%20(2).jpg)
 
-[Link Affinity Map](https://miro.com/app/board/o9J_kwtnbQY=/)
+
+Se puede encontrar más información en el siguiente link: [Affinity Map](https://miro.com/app/board/o9J_kwtnbQY=/)
 
 ### User Persona
 
