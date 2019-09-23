@@ -133,17 +133,9 @@ Sofía necesita una app sencilla de entender, de fácil acceso y segura para rea
 
 ##### Feature List:
 
- 1.  Opción de ingresar con DNI y huella digital en vez de clave.
-    
-2. Menú desplegable con las operaciones agrupadas.
-    
-3. Onbording con indicaciones de ciertas funcionalidades.
-    
-4. Uso de iconos relacionados con las operaciones expuestas.
+1.  Menú principal con recuadros e iconos que le permitan al usuario identificar facilmente las opciones de operaciones a seleccionar.
+2. Ingreso a la app con reconocimiento facial, huella o clave; de acuerdo al funcionamiento del equipo del usuario.   
 
-    
-
-  
 
 Sofía quisiera ser cliente de un banco que le minimice lo más posible las razones para acudir al banco para evitar perder tiempo de espera y poder avanzar con sus actividades diarias.
 
@@ -155,9 +147,8 @@ Sofía quisiera ser cliente de un banco que le minimice lo más posible las razo
     
 
   ##### Feature List:
-1. Crear opción de creación de cuentas nuevas en linea.
+1. Crear opción de resetear la clave de la tarjeta de crédito mediante la app.
     
-2. Crear una opción para aplicar a préstamos y tarjetas de crédito mediante la app.
 
 Sofía necesita un banco en donde pueda hacer consultas rápidas y en línea para culminar operaciones en caso de no entender algún procedimiento o tener un reclamo.
 
@@ -165,10 +156,8 @@ Sofía necesita un banco en donde pueda hacer consultas rápidas y en línea par
 -   HMW implementar un sistema de consultas más específicas para la comodidad del usuario.
     
 -   HMW comunicar con el usuario cuando tenga alguna duda.
-  
-    
 
-    ##### Feature List:
+ ##### Feature List:
 1.  Botón para que ingrese su número de teléfono y se le devuelva la llamada al instante.
     
 2.  Opción de chatear con una persona.
@@ -184,18 +173,13 @@ Sofía quisiera tener una app que le enseñe de forma práctica y sencilla los m
     
 -   HMW educar al cliente sobre ahorros
 
-    ##### Feature List:
 
-1.   Opción de crear bolsa de gastos mensual.
-    
-2. Personalizar la forma de ahorro.
-    
-3.   Notificación que indique al usuario al final del día cuánto gastó de la bolsa que tiene mensual.
+##### Feature List:
 
-  
-  
-
-    
+1. Crear opción de un presupuesto para ciertas actividades definidas por el usuario a fin que tenga mayor consciencia del gasto de su dinero.
+2. Avisar mediante notificación cómo va gastando su presupuesto mensual.
+ 
+      
     
 
   
