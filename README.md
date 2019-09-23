@@ -203,6 +203,20 @@ Sofía quisiera tener una app que le enseñe de forma práctica y sencilla los m
 
 ### Prototipo de Alta
 
+[Link Invision](https://invis.io/3TTYQ5P6EKB)
+
 ## Recomendaciones finales
 
+-Como parte de nuestra investigación recomendamos que se pueda simplificar más algunos procesos como el pago de servicios, ya que los usuarios tienden a desligarse de la applicación si algo toma mucho tiempo o no funciona de la manera que ellos esperan.
+-Seguir iterando sobre la propuesta presentada ya que las tendencias cambian muy rapido y pueda que algunas de las propuestas tiendan a resultar obsoletas, teniendo en cuenta que se quiere atacar a un publico joven la app debe de estar actualizada a las últimas tendencias.
+
+## Carpeta Drive
+[Esta es nuestra carpeta con toda la investigación realizada](https://drive.google.com/drive/folders/1vkCBU1VB3kjdqPzbZNF95U1q2kTItq8s?usp=sharing)
+
+## Video Loom
+
+[Video Loom](https://www.loom.com/share/a3cf99a34d6e4f749ef06465ac9deed0)
+
 ## Resultado final
+
+[Prototipo Final](https://www.figma.com/proto/RdH5HktYxN19DU4aTorACi/Banqui?node-id=517%3A13313&scaling=scale-down)
