@@ -3,7 +3,7 @@
 ## Objetivos del proyecto
 
 
-Crear un prototipo que responda a lo que los usuarios valoran y necesitan de una app financiera, tomando en cuenta las dudas y temores relacionados al uso de servicios financieros digitales.**
+Crear un prototipo que responda a lo que los usuarios valoran y necesitan de una app financiera, tomando en cuenta las dudas y temores relacionados al uso de servicios financieros digitales.
 
 ## Introducción
 
@@ -45,12 +45,12 @@ Tecnológicos:
 -   El área de tecnología tiene una infraestructura antigua y se encuentra saturada; muchas de las propuestas de mejora se paralizan o no terminan realizándose por falta de un soporte tecnológico adecuado.
     
 
+
   
   
 
 Sobre manejo de la data:
-
--   El banco actualmente no está preparado para realizar ventas contextuales (utilizar la data que tienen de los usuarios como fechas de pago de sueldo, información sobre saldos de cuentas, comportamiento de compras y demás analitycs para ofrecer productos personalizados de acuerdo a la necesidades específicas), es por ello que solo ofrece 3 productos de forma digital. Consideran que tienen mucha información pero falta explotarla.
+-   El banco actualmente no está preparado para realizar ventas contextuales (utilizar la data que tienen de los usuarios como fechas de pago de sueldo, información sobre saldos de cuentas, comportamiento de compras y demás analytics para ofrecer productos personalizados de acuerdo a la necesidades específicas), es por ello que solo ofrece 3 productos de forma digital. Consideran que tienen mucha información pero falta explotarla.
     
 
   
@@ -76,17 +76,20 @@ Operativos:
 
 ##  Conociendo al usuario
 
-Iniciamos el proceso de investigación entrevistando a 6 usuarios en donde podemos destacar los hallazgos más importantes:
+Iniciamos el proceso de investigación entrevistando a 6 usuarios con el fin de identificar los pain points de la app que fue entregada por el product owner. Dentro los hallazgos de esta investigación, podemos resaltar los siguientes hallazgos:
 
-- La mayor preocupación que tenían era referida a resolución de inconvenientes; buscan una respuesta "humana" a sus reclamos.
-- Buscaban seguridad y confianza en que los procesos se realizaran sin errores.
-- Estaban abiertos a probar nuevas tecnologías que les simplifiquen su día a día.
+-La mayor preocupación que tenían era referida a resolución de inconvenientes; buscan una respuesta "humana" a sus reclamos.
+-Buscaban seguridad y confianza en que los procesos se realizaran sin errores.
+-Estaban abiertos a probar nuevas tecnologías que les simplifiquen su día a día.
+
 
 ### Affinity Map
 
-Sintetizamos todas las observaciones en el siguiente mapa de afinidad:
+Sintetizamos todas las observaciones en un mapa de afinidad, en donde los inputs más importantes fueron los siguientes:
 
-[https://miro.com/app/board/o9J_kwtnbQY=/](https://miro.com/app/board/o9J_kwtnbQY=/)
+![Dudas sobre la bancadigital](fotos/banqui.png)
+
+[Link Affinity Map](https://miro.com/app/board/o9J_kwtnbQY=/)
 
 ### User Persona
 
