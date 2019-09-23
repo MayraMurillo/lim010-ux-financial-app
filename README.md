@@ -1,207 +1,200 @@
-# Aplicación financiera
+# BANQUI
+
+## Objetivos del proyecto
 
 
-El banco más importante del país, siguiendo las tendencias de otros países, está
-planeando lanzar un banco 100% digital bajo otro nombe: "Banqui". Su principal
-objetivo es tener un banco que sea más cercano a las necesidades del público más
-joven del país. Para ello han venido piloteando un app con un número pequeño de
-usuarios. Los resultados de este piloto son mixtos, hay algunas cosas que han
-sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
-
-Para poder ayudarlos a entender mejor las necesidades de sus clientes y crear
-el mejor banco digital del país han decidido contratar a una consultora de UX,
-donde le han asignado este proyecto a ti y otra compañera de Laboratoria.
+Crear un prototipo que responda a lo que los usuarios valoran y necesitan de una app financiera, tomando en cuenta las dudas y temores relacionados al uso de servicios financieros digitales.**
 
 ## Introducción
 
-### Contexto
+Banqui es el primer banco 100% digital de nuestro país, está dirigido a un público joven y ávido por probar nuevas tecnologías que simplifiquen su día a día.
 
-Durante la primera semana de entendimiento de los requerimientos, el Product
-Manager les comparte las hipótesis y preguntas que tienen dentro del equipo:
+Con este proyecto buscamos que nuestros usuarios tengan una experiencia amigable, simple y directa; sabemos que ocupan mucho tiempo revisando sus redes sociales por lo que queremos crear un ambiente similar al uso de ellas, es por ello que tendremos una interfaz rápida y fácil de usar que les permita tener el control de sus gastos e ingresos a fin de tomar mejores decisiones financieras.
 
-> Los usuarios que anteriormente han sido clientes de algún banco, nos comparan
-  con las aplicaciones de esos bancos, parece que hay cosas que extrañan.
+## Conociendo el negocio:
 
-> La aplicación que estamos probando es para iOS, sin embargo, para hacer un
-  lanzamiento nacional necesitamos crear un app para Android.
+Iniciamos nuestra investigación con el *Product Owner* de Banqui, Michael Gonzales, quien nos comentó que están en un proceso de utilizar la tecnología para beneficio del negocio y actualmente se encuentran trabajando en el rediseño de la app.
 
-> Nos falta acercarnos un poco más a los usuarios jóvenes, 100% digitales, los
-  que usan Netflix, Uber, Spotify, Instagram, entre otros.
+  Los objetivos que quieren lograr con Banqui son los siguientes:
 
-### Recursos
+-   Aumentar la satisfacción del cliente con los canales digitales.
 
-En esta carpeta de [Google Drive](https://drive.google.com/drive/folders/1etdcDyoN7C038ti_i4RhavK2DWEAc1yH?usp=sharing) y en los siguientes
-links, encontrarán:
+-   Mejorar la satisfacción del cliente en cuanto al servicio de la app para el 2020 y para el 2024 ser la app de mejor servicio en el país.
+    
+-   Llegar al 70% de ventas por canales digitales para el 2020
+    
 
-- Los user personas
-- El user flow del MVP
-- El [diseño del app en Figma](https://www.figma.com/file/im1tb4vPyt9bMVlhzqlHIR/S02E01-App-Financiera?node-id=0%3A1)
-  , con una guía de componentes y el [Prototipo navegable](https://marvelapp.com/1hj56576/screen/60926857).
-- Analytics de los primeros 6 meses del MVP
-- Data de uso del MVP de los primeros 6 meses
+  
 
-## Objetivos de aprendizaje
+Pero para llegar a ello primero se deben de solucionar los siguientes problemas a nivel negocio:
 
-El objetivo principal de este proyecto es que te enfrentes al reto de rediseñar
-un producto ya existente. Es muy probable que termines trabajando en productos
-existentes y que para tener un buen entendimiento del problema, debas analizar
-data de ese producto y complementar esta data con investigación de campo. Para
-luego definir una estrategia de producto de acuerdo a los objetivos del negocio,
-pero sin dejar de lado los objetivos y necesidades de los usuarios. Puedes leer
-sobre el trabajo de un UX Designer en rediseño este [blogpost](https://blog.continuum.cl/preguntas-para-dejar-de-ser-ux-designer-y-empezar-a-ser-un-ux-redesigner-143e5467ec8d).
+  
 
-En este proyecto pondrás en práctica habilidades de: análisis de datos,
-investigación de campo, pensamiento crítico, cuestionamiento, síntesis, diseño
-de componentes de la interfaz y user testing.
+Con respecto al usuario:
 
-## Consideraciones generales
+-   Miedo al cambio; los clientes pueden rechazar una nueva interfaz porque ya se han acostumbrado a manejar la antigua y podrían llegar a perderse clientes por este motivo.
+    
 
-Como ya habrás notado, gran parte del trabajo de UX tiene relación con el
-desempeño de tus habilidades blandas. Estas habilidades nos acompañan a lo largo
-de cualquier proyecto y su desarrollo es clave para el éxito. Estas habilidades
-no sólo son utilizadas a la hora de entender al usuario, sino a lo largo de toda
-la ejecución, es decir desde cómo planificamos hasta nuestra presentación al
-cliente.
+  
+  
+  
+  
 
-Anteriormente, nos habíamos concentrado en el desarrollo de tu curiosidad y
-empatía, practicado cómo relacionarte con el cliente y el usuario. Siempre debes
-pensar quiénes son y qué necesitan, y no enfocarte en lo que tú consideras que
-podría ser la solución correcta. Se trata de entender que nosotros no somos el
-usuario, y debemos hacer el ejercicio empático de comprenderlo a él y a nuestro
-cliente.
+Tecnológicos:
 
-Este proyecto, a diferencia de otros, no debes partir desde cero generando un
-prototipo, sino investigar lo que el banco ya ha construido y en base a eso
-hacer una propuesta. Para esto, te aconsejamos comenzar por investigar
-la información que tienes; entender qué datos ya manejas y qué elementos
-necesitas averiguar para completar tu proyecto. De esta manera, tu planificación
-es muy relevante para comprender la problemática.
+-   El área de tecnología tiene una infraestructura antigua y se encuentra saturada; muchas de las propuestas de mejora se paralizan o no terminan realizándose por falta de un soporte tecnológico adecuado.
+    
 
-Al planificar podrás comprender de qué manera estructurar tu proyecto y qué
-elementos debes investigar. Además, te permitirá trabajar de mejor manera con tu
-compañera, te aconsejamos que consideres tiempo para poder iterar sobre las
-posibilidades de mejora y también para preparar la presentación.
+  
+  
 
-La calidad del proyecto depende totalmente de tu proactividad y autoaprendizaje,
-si no conoces plataformas financieras parte por investigar sobre ellas. No
-esperes que los contenidos lleguen a ti, más bien busca todo lo que necesites
-para poder encontrar la mejor solución.
+Sobre manejo de la data:
 
-Parte importante de tu trabajo como UX designer es tomar decisiones.
-Efectivamente existen múltiples herramientas que puedes utilizar, debes
-comprender para qué y con qué finalidad escoges usar cada una de ellas. Siempre
-piensa que debes justificar todo gasto con tu consultora y el cliente, cada
-decisión que tomes en el proyecto debe ser fundamentada, no sigas pasos
-mecánicos por seguirlos, cuestiónate constantemente.
+-   El banco actualmente no está preparado para realizar ventas contextuales (utilizar la data que tienen de los usuarios como fechas de pago de sueldo, información sobre saldos de cuentas, comportamiento de compras y demás analitycs para ofrecer productos personalizados de acuerdo a la necesidades específicas), es por ello que solo ofrece 3 productos de forma digital. Consideran que tienen mucha información pero falta explotarla.
+    
 
-Por último, considera que la calidad de tu presentación es tan importante como
-el proceso completo. Un proyecto que no se aprecia al ser presentado no es un
-buen proyecto. Si vas a utilizar una slides frente a un cliente, se prolija en
-el diseño de ellos y en la información que entregas, también busca la mejor
-manera de mostrar tu demo y por sobre todo prueba antes de presentar frente al
-cliente.
+  
 
-## Entrega
+Operativos:
 
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
+-   Actualmente no pueden ofrecer una banca digital las 24 horas del día ya que hay ciertas operaciones que solo se pueden realizar en un rango horario similar al de atención en oficinas.
+    
 
-README.md  detallando:
+  
 
-* Objetivos iniciales del proyecto
-* Problemas encontrados tanto a nivel de negocio como a nivel de usuario
-* Recomendaciones de próximos pasos para el banco con respecto al app
-* De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
-  estos deberán ser diseñados y entregados en un prototipo de alta definición.
+### Conclusiones en base a la entrevista con el  P.O:
 
-Un video en Loom de máximo 5 minutos explicando tu documento.
-* Estos 5 minutos tienes que utilizarlos para explicar los puntos indicados en
-  el `README.md` y para hacer un demo de la solución propuesta.
+  
 
-En las otras carpetas del repositorio o en las carpetas de Google Drive podrás
-agregar los documentos complementarios que sustenten tu proceso.
+-   Quieren brindar una experiencia personalizada en donde el usuario pueda elegir lo que quiere ver en el momento que lo desea.
+    
+-   Buscan cotidianeidad, que los usuarios ingresen tan seguido a la app, como lo hacen a sus redes sociales.
+    
+-   Quieren brindar soluciones para ahorros y mejor control de gastos, los clientes gastan mucho sin tener idea de en qué están utilizando su dinero.
+    
+-   Buscan utilizar la data analitica que tienen para ofrecer productos y servicios personalizados.
 
-### Hacker edition
+##  Conociendo al usuario
 
-Para el hacker edition puedes elegir una o varias de estas opciones:
+Iniciamos el proceso de investigación entrevistando a 6 usuarios en donde podemos destacar los hallazgos más importantes:
 
-- Antes de empezar a desarrollar este proyecto, lista cuáles fueron tus
-  aprendizajes durante el proyecto 1 y en qué cosas te gustaría mejorar durante 
-  el proyecto 2. Al terminar el proyecto 2 vuelve a esta lista y chequea cómo te 
-  fue con esos retos, ¿los cumpliste? Muestrános esta lista y esta reflexión
-  en un documento adicional (en el formato que prefieras).
-- En lugar de usar Github para documentar tu proceso de trabajo, documéntalo en
-  su propia web, puedes usar Wix, Instapage, Squarespace, Google Sites o crear
-  tu propia web desde 0. 
-- Escribe un post en Medium contando tu proceso de investigación.
+- La mayor preocupación que tenían era referida a resolución de inconvenientes; buscan una respuesta "humana" a sus reclamos.
+- Buscaban seguridad y confianza en que los procesos se realizaran sin errores.
+- Estaban abiertos a probar nuevas tecnologías que les simplifiquen su día a día.
 
-## Otras consideraciones
+### Affinity Map
 
-### 1) Planeamiento y presupuesto
+Sintetizamos todas las observaciones en el siguiente mapa de afinidad:
 
-En el reto con emprendimientos te entregamos una lista de tareas que podías
-realizar y le asignamos un valor en puntos a cada tarea. Además, te dimos un
-presupuesto de 300 puntos para que los utilices en esas tareas. Para este reto,
-la lista de tareas, el valor en puntos de cada tarea y el presupuesto total
-de las actividades a realizar lo crearás tú y lo tendrás que sustentar con tu
-coach. Adicinalmente, deberás sustentar con tu coach qué entregables harás
-llegar al banco al final de tu investigación y por qué. El coach te aprobará
-estos entregables o te dará feedback para mejorarlos.
+[https://miro.com/app/board/o9J_kwtnbQY=/](https://miro.com/app/board/o9J_kwtnbQY=/)
 
-Cuando hagas tu presupuesto y pienses en los entregables recuerda que el tiempo
-de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
-te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
-tuviste al desarrollar el proyecto 1.
+### User Persona
 
-### 2) Prototipo de alta fidelidad
+Tomando todos los imputs recibidos por nuestros entrevistados creamos al siguiente user persona:
 
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
+### Customer Journey
 
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
+Creamos el Customer Journey plazmando las etapas que atravesaría nuestra User Persona si quisiera crear una meta de ahorros con el prototipo inicial otorgado:
 
-## Evaluación
+### Benchmark
 
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad
-y cada nivel. A continuación presentamos los niveles esperados de cada habilidad
-que deberías alcanzar al finalizar este proyecto:
+|   |Andy|  Simple |Nubank| BCP  |BBVA|   
+|---|---|---|---|---|---|
+|**Pais**| Perú  |  USA | Brasil  | Perú  | Perú  |   
+|**Productos que se pueden adquirir 100% online** | Préstamos  | Cuentas de ahorro  | Cuentas de ahorro, Tarjetas de crédito y Préstamos  |  Cuentas de ahorro, Tarjetas de crédito, Préstamos y Seguros|Cuentas de ahorro, Tarjetas de crédito, Préstamos, Seguros y Fondos Mutuos  |   
+| **Atención de dudas y reclamos**  |  Teléfono y correo |Teléfono y mensajes dentro de la app   | Teléfono y correo  | Teléfono, Plataforma (presencial), Chatbox y redes sociales   |  Teléfono, Plataforma (presencial), Chatbox y redes sociales  |   
+| **Carácterísticas especiales**| Préstamos en 1 hora  |  Meta de ahorros y Opción "Safe to Spend" | Tasas bajas  |  Apertura de cuentas hasta las 08:30|  Apertura de cuentas las 24 horas|   
 
-### Habilidades Blandas
+## Ideación
 
-| Habilidad                    | Nivel esperado |
-|------------------------------|----------------|
-| **Autogestión**                               |
-| Planificación y organización | 4              |
-| Autoaprendizaje              | 4              |
-| Presentaciones               | 4              |
-| Adaptabilidad                | 4              |
-| Solución de problemas        | 4              |
-| **Relaciones interpersonales**                |
-| Trabajo en equipo            | 4              |
-| Responsabilidad              | 4              |
-| Dar y recibir feedback       | 4              |
-| Comunicación eficaz          | 4              |
+### Problem Statements, How Might We y Feature List
 
-### UX
+  
+Sofía necesita una app sencilla de entender, de fácil acceso y segura para realizar sus operaciones en la menor cantidad de tiempo posible.
 
-| Habilidad                      | Nivel esperado |
-|--------------------------------|----------------|
-| **Research**                                    |
-| User centricity                | 4              |
-| Entrevistas                    | 3              |
-| Testing                        | 3              |
-| Planeamiento y ejecución       | 3              |
-| Síntesis de resultados         | 3              |
-| **Interaction design**                          |
-| Diseño de interacción          | 3              |
-| Arquitectura de la información | 3              |
-| Prototyping                    | 3              |
-| **Visual design**                               |
-| Visual Design                  | 3              |
-| **Business mindset**                            |
-| Business mindset               | 3              |
+
+-   HMW implementar una app que solo solicite datos básico y rápidos al usuario para su ingreso.
+    
+-   HMW crear un orden visual dentro de la app para que el usuario sienta familiaridad con la app.
+    
+-   HMW replantear una app que al usuario le resulte simple de entender.
+
+##### Feature List:
+
+ 1.  Opción de ingresar con DNI y huella digital en vez de clave.
+    
+2. Menú desplegable con las operaciones agrupadas.
+    
+3. Onbording con indicaciones de ciertas funcionalidades.
+    
+4. Uso de iconos relacionados con las operaciones expuestas.
+
+    
+
+  
+
+Sofía quisiera ser cliente de un banco que le minimice lo más posible las razones para acudir al banco para evitar perder tiempo de espera y poder avanzar con sus actividades diarias.
+
+  
+
+-   HMW crear soluciones en línea para el usuario en caso de cualquier eventualidad.
+    
+-   HMW rediseñar la app para que permita al usuario gestionar la totalidad de sus operaciones y consultas de manera online.
+    
+
+  ##### Feature List:
+1. Crear opción de creación de cuentas nuevas en linea.
+    
+2. Crear una opción para aplicar a préstamos y tarjetas de crédito mediante la app.
+
+Sofía necesita un banco en donde pueda hacer consultas rápidas y en línea para culminar operaciones en caso de no entender algún procedimiento o tener un reclamo.
+
+  
+
+-   HMW implementar un sistema de consultas más específicas para la comodidad del usuario.
+    
+-   HMW comunicar con el usuario cuando tenga alguna duda.
+    
+
+    ##### Feature List:
+1.  Botón para que ingrese su número de teléfono y se le devuelva la llamada al instante.
+    
+2.  Opción de chatear con una persona.
+    
+3.  Sección de FAQ.
+  
+
+Sofía quisiera tener una app que le enseñe de forma práctica y sencilla los métodos de ahorro para costear los gastos económicos de los planes que tiene a futuro.
+
+  
+
+-   HMW permitir al usuario guardar y bloquear una cantidad de dinero para ahorrarlo.
+    
+-   HMW educar al cliente sobre ahorros
+
+    ##### Feature List:
+
+1.   Opción de crear bolsa de gastos mensual.
+    
+2. Personalizar la forma de ahorro.
+    
+3.   Notificación que indique al usuario al final del día cuánto gastó de la bolsa que tiene mensual.
+
+  
+  
+
+    
+    
+
+  
+  
+
+    
+
+### Prototipo de Baja
+
+### Prototipo de Alta
+
+## Recomendaciones finales
+
+## Resultado final
