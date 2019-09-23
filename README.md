@@ -1,6 +1,5 @@
 # Aplicación financiera
 
-## Preámbulo
 
 El banco más importante del país, siguiendo las tendencias de otros países, está
 planeando lanzar un banco 100% digital bajo otro nombe: "Banqui". Su principal
