@@ -208,6 +208,7 @@ Sofía quisiera tener una app que le enseñe de forma práctica y sencilla los m
 ## Recomendaciones finales
 
 -Como parte de nuestra investigación recomendamos que se pueda simplificar más algunos procesos como el pago de servicios, ya que los usuarios tienden a desligarse de la applicación si algo toma mucho tiempo o no funciona de la manera que ellos esperan.
+
 -Seguir iterando sobre la propuesta presentada ya que las tendencias cambian muy rapido y pueda que algunas de las propuestas tiendan a resultar obsoletas, teniendo en cuenta que se quiere atacar a un publico joven la app debe de estar actualizada a las últimas tendencias.
 
 ## Carpeta Drive
