@@ -98,7 +98,7 @@ Se puede encontrar más información en el siguiente link: [Affinity Map](https:
 
 Tomando todos los imputs recibidos por nuestros entrevistados creamos al siguiente user persona:
 
-![User persona]()
+![User persona](https://github.com/MayraMurillo/lim010-ux-financial-app/blob/master/fotos/User%20Persona.png)
 
 ### Customer Journey
 
