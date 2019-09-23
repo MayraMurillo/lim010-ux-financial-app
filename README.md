@@ -87,7 +87,7 @@ Iniciamos el proceso de investigación entrevistando a 6 usuarios con el fin de 
 
 Sintetizamos todas las observaciones en un mapa de afinidad, en donde los inputs más importantes fueron los siguientes:
 
-![Dudas sobre la bancadigital](fotos/banqui.png)
+![Dudas sobre la bancadigital](fotos/banqui.jpg)
 
 [Link Affinity Map](https://miro.com/app/board/o9J_kwtnbQY=/)
 
