@@ -219,4 +219,4 @@ Sofía quisiera tener una app que le enseñe de forma práctica y sencilla los m
 
 ## Resultado final
 
-[Prototipo Final](https://www.figma.com/proto/RdH5HktYxN19DU4aTorACi/Banqui?node-id=446%3A5224&scaling=scale-down)
+[Prototipo Final](https://www.figma.com/proto/RdH5HktYxN19DU4aTorACi/Banqui?node-id=525%3A13273&scaling=scale-down)
