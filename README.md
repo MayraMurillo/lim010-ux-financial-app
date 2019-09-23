@@ -104,9 +104,11 @@ Tomando todos los imputs recibidos por nuestros entrevistados creamos al siguien
 
 Creamos el Customer Journey plazmando las etapas que atravesaría nuestra User Persona si quisiera crear una meta de ahorros con el prototipo inicial otorgado:
 
-![Customer Journey] ()
+![Customer Journey](https://github.com/MayraMurillo/lim010-ux-financial-app/blob/master/fotos/Costumer%20Journey.png)
 
 ### Benchmark
+
+Ya teniendo más claro los pain points y necesidades de los usuarios, empezamos a ver los productos y servicios que ofrecian otros bancos, al no haber un banco 100% virtual en nuestro país las referencias que obtuvimos fueron del extranjero, de 1 fintech y de bancos tradicionales:
 
 |   |Andy|  Simple |Nubank| BCP  |BBVA|   
 |---|---|---|---|---|---|
