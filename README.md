@@ -189,6 +189,18 @@ Sofía quisiera tener una app que le enseñe de forma práctica y sencilla los m
 
 ### Prototipo de Baja
 
+![enter image description here](https://lh3.googleusercontent.com/Yi1Qgzpn5FKwxHpRyWPzz3AZeRl2sVo5GeMDCOXllCgRtVrEC_L3b468NjP2ykkz5DwvfEc9cXgfMg)
+
+![enter image description here](https://lh3.googleusercontent.com/VS85HQ7EhrNTQ-hcD7blUVrp0HzDg1ORHXUUKlqgeoBlzCoDcRpLK4K3s6pVf2dCO0b8bOe_Vo2AXA)
+
+![](https://lh3.googleusercontent.com/rbl1Of1gTNUSMeS0B5_wpJDIOKEWWTud26h_bFvMQ87fj9KCboO5QLfy06tDptHUG04KB1HXS4TimA)
+
+![enter image description here](https://lh3.googleusercontent.com/yJw_rRFN3xx5Vg2Sdrwuy_REfstrL2iST_OwOk9mM3zKP9wR_0dmtEXNIqaabNamGYQjzw4WsfpEtg)
+
+![enter image description here](https://lh3.googleusercontent.com/BrZI_GR2wYBjxV0mxvI-ELrvfShDKEDLfU3V1KYes2-n2EEPTfq1eTs3yj5W6J7EuRabMhoHAcW0sQ)
+
+![enter image description here](https://lh3.googleusercontent.com/RBZpFOLeSaziq3xCY9hqXYutPvDo7mgjm7c7wgS9sbJiLZKyIPNadDB9jxpg5TtP5uh-1KQSyBBkdQ)
+
 ### Prototipo de Alta
 
 ## Recomendaciones finales
