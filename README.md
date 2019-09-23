@@ -104,6 +104,8 @@ Tomando todos los imputs recibidos por nuestros entrevistados creamos al siguien
 
 Creamos el Customer Journey plazmando las etapas que atravesaría nuestra User Persona si quisiera crear una meta de ahorros con el prototipo inicial otorgado:
 
+![Customer Journey] ()
+
 ### Benchmark
 
 |   |Andy|  Simple |Nubank| BCP  |BBVA|   
