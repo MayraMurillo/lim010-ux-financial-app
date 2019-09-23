@@ -98,6 +98,8 @@ Se puede encontrar más información en el siguiente link: [Affinity Map](https:
 
 Tomando todos los imputs recibidos por nuestros entrevistados creamos al siguiente user persona:
 
+![User persona]()
+
 ### Customer Journey
 
 Creamos el Customer Journey plazmando las etapas que atravesaría nuestra User Persona si quisiera crear una meta de ahorros con el prototipo inicial otorgado:
@@ -155,11 +157,11 @@ Sofía quisiera ser cliente de un banco que le minimice lo más posible las razo
 
 Sofía necesita un banco en donde pueda hacer consultas rápidas y en línea para culminar operaciones en caso de no entender algún procedimiento o tener un reclamo.
 
-  
 
 -   HMW implementar un sistema de consultas más específicas para la comodidad del usuario.
     
 -   HMW comunicar con el usuario cuando tenga alguna duda.
+  
     
 
     ##### Feature List:
